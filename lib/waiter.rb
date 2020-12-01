@@ -31,7 +31,4 @@ def best_tipper
   
   best_tipped_meal.customer 
 end 
-
-
-end
 end
