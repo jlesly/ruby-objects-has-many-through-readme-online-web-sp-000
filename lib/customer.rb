@@ -28,4 +28,3 @@ def waiters
     meal.waiter
   end 
 end 
-end
